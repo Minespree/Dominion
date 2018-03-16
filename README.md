@@ -5,6 +5,7 @@
 ![Documentation](https://img.shields.io/badge/docs-javadocs-green.svg)
 
 This is the code that powered the core BungeeCord services of the former Minespree Network. It includes the database models used by the BungeeCord proxies, party and friends managers, the server queue API and utility classes.
+
 There was a plan to integrate this plugin with [Mango](https://github.com/Minespree/Mango) (a new base module that connected all of our backend services), but the server closed down before we were able to migrate to it.
 
 Besides the removal of some branding and configuration data, it is more or less unmodified. It is probably not _directly_ useful to third parties in its current state, but it may be help in understanding how the Minespree network operated.
