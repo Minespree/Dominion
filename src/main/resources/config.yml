@@ -1,0 +1,10 @@
+redis:
+  host: 127.0.0.1
+  port: 6379
+feather:
+  mongodb:
+    host: 127.0.0.1
+    port: 27015
+    user: user
+    password: password
+    db: database

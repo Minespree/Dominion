@@ -1,0 +1,4 @@
+name: Dominion
+main: net.minespree.dominion.DominionPlugin
+author: Minespree
+depends: [Myers]
